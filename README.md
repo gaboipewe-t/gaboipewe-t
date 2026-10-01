@@ -22,10 +22,6 @@
 ---
 
 ### 📂 Featured Projects (Coming Soon)
-> In progress:  
-> • Time-series forecasting with Python  
-> • A beginner's approach to portfolio optimization using historical stock data  
-> • Personal finance dashboard with Python and Streamlit
 
 ---
 
